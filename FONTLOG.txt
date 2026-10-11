@@ -18,6 +18,11 @@ FONTLOG : 깍두기 도면체 (Kkakdugi Drafting)
 변경 이력
 ---------
 
+2026-10-11 (Dynamic Potato) 깍두기 도면체 1.001
+- ExtraLight 굵기 값(usWeightClass) 200 → 250
+  └ Windows 오피스 글꼴 목록에서 ExtraLight가 굵게 보이던 문제 수정
+- 글자 모양 변경 X
+
 2026-10-10 (Dynamic Potato) 깍두기 도면체 1.000
 - 첫 공개
 - 한글 11,172자, 라틴/그리스/키릴 일부, 가나 170자, 공학 기호, 굵기 4종
