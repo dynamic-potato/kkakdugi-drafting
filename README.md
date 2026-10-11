@@ -2,6 +2,10 @@
 
 도면에서도 한글의 아름다움을 표현하기 위해 한땀 한땀 그려서 만든 깍두기 도면체입니다.
 
+- 소개 페이지 : https://dynamic-potato.github.io/kkakdugi-drafting/
+
+![깍두기 도면체](images/hero.svg)
+
 
 ## 글자 범위
 
@@ -18,7 +22,7 @@
 
 ## 굵기
 
-- ExtraLight (200)
+- ExtraLight (250)
 - Light (300)
 - Regular (400)
 - Bold (700)
@@ -73,7 +77,7 @@ Kkakdugi Drafting is a typeface drawn one stroke at a time to bring the beauty o
 
 ## Weights
 
-- ExtraLight (200)
+- ExtraLight (250)
 - Light (300)
 - Regular (400)
 - Bold (700)
